@@ -1,0 +1,23 @@
+/*
+*
+* @package Pretty topic
+* @author dmzx (www.dmzx-web.net)
+* @copyright (c) 2014 by dmzx (www.dmzx-web.net)
+* @license http://opensource.org/licenses/gpl-license.php GNU Public License
+* 
+*/
+
+span.prettytopic {
+    display: inline-block;
+    margin: 1px 4px 1px 0;
+    padding: 2px 5px;
+    background: -webkit-linear-gradient(#0f9be1, #6aa7f7, #0076b1, #0076b1);
+    background: -o-linear-gradient(#0f9be1, #6aa7f7, #0076b1, #0076b1);
+    background: -moz-linear-gradient(#0f9be1, #6aa7f7, #0076b1, #0076b1);
+    background: linear-gradient(#0f9be1, #6aa7f7, #0076b1, #0076b1);
+    color: #ffffff;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    text-shadow: 0 1px 0 #005884;
+}

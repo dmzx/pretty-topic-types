@@ -1,0 +1,5 @@
+services:
+    dmzx.prettytopic.listener:
+        class: dmzx\prettytopic\event\listener
+        tags:
+            - { name: event.listener }
