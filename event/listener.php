@@ -5,7 +5,7 @@
 * @author dmzx (www.dmzx-web.net)
 * @copyright (c) 2014 by dmzx (www.dmzx-web.net)
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
-* 
+*
 */
 
 namespace dmzx\prettytopic\event;

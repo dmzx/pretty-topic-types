@@ -1,32 +1,32 @@
 {
-    "name": "dmzx/prettytopic",
-    "type": "phpbb-extension",
-    "description": "Will add pretty topic type prefix to special topics",
-    "homepage": "http://www.dmzx-web.net",
-    "version": "1.0.0",
-    "time": "2014-11-29",
+	"name": "dmzx/prettytopic",
+	"type": "phpbb-extension",
+	"description": "Will add pretty topic type prefix to special topics",
+	"homepage": "http://www.dmzx-web.net",
+	"version": "1.0.0",
+	"time": "2014-11-29",
 	"keywords": ["phpbb", "extension", "prettytopic"],
-    "license": "GPL-2.0",
-    "authors": [
-        {
-            "name": "dmzx",
-            "homepage": "http://www.dmzx-web.net",
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "dmzx",
+			"homepage": "http://www.dmzx-web.net",
 			"email": "info@dmzx-web.net",
-            "role": "Extension Developer"
-        }
-    ],
-    "require": {
-        "php": ">=5.3.3"
-    },
-    "extra": {
-        "display-name": "Pretty Topic",
-        "soft-require": {
-           "phpbb/phpbb": "3.1.*"
-        },
-        "version-check": {
-            "host": "www.phpbb.com",
-            "directory": "/customise/db/extension/pretty_topic",
-            "filename": "version_check"
-        }
-    }
+			"role": "Extension Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.3"
+	},
+	"extra": {
+		"display-name": "Pretty Topic",
+		"soft-require": {
+		   "phpbb/phpbb": "3.1.*"
+		},
+		"version-check": {
+			"host": "www.phpbb.com",
+			"directory": "/customise/db/extension/pretty_topic",
+			"filename": "version_check"
+		}
+	}
 }
