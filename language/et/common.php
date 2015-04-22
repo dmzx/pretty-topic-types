@@ -19,11 +19,11 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'VIEW_TOPIC_ANNOUNCEMENT'   => 'Teadaanne',
+	'VIEW_TOPIC_ANNOUNCEMENT'	=> 'Teadaanne',
 	'VIEW_TOPIC_GLOBAL'		 => 'Üldteadaanne',
 	'VIEW_TOPIC_LOCKED'		 => 'Suletud',
-	'VIEW_TOPIC_LOGS'		   => 'Vaata logisi',
-	'VIEW_TOPIC_MOVED'		  => 'Liigutatud',
-	'VIEW_TOPIC_POLL'		   => 'Hääletus',
+	'VIEW_TOPIC_LOGS'			=> 'Vaata logisi',
+	'VIEW_TOPIC_MOVED'			=> 'Liigutatud',
+	'VIEW_TOPIC_POLL'			=> 'Hääletus',
 	'VIEW_TOPIC_STICKY'		 => 'Kleebis',
 ));
