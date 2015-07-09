@@ -26,5 +26,5 @@ $lang = array_merge($lang, array(
     'VIEW_TOPIC_LOGS'           => 'Ver logs',
     'VIEW_TOPIC_MOVED'          => 'Movido',
     'VIEW_TOPIC_POLL'           => 'Enquete',
-    'VIEW_TOPIC_STICKY'         => 'Fixado',
+    'VIEW_TOPIC_STICKY'         => 'Fixo',
 ));
