@@ -20,6 +20,7 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
+<<<<<<< HEAD:language/pt_br/common.php
 	'VIEW_TOPIC_ANNOUNCEMENT'	=> 'Anúncio',
 	'VIEW_TOPIC_GLOBAL'		 => 'Anúncio Global',
 	'VIEW_TOPIC_LOCKED'		 => 'Trancado',
@@ -27,4 +28,13 @@ $lang = array_merge($lang, array(
 	'VIEW_TOPIC_MOVED'			=> 'Movido',
 	'VIEW_TOPIC_POLL'			=> 'Enquete',
 	'VIEW_TOPIC_STICKY'		 => 'Fixado',
+=======
+	'VIEW_TOPIC_ANNOUNCEMENT'	=> 'Anúncio',
+	'VIEW_TOPIC_GLOBAL'		 => 'Anúncio Global',
+	'VIEW_TOPIC_LOCKED'		 => 'Trancado',
+	'VIEW_TOPIC_LOGS'			=> 'Ver logs',
+	'VIEW_TOPIC_MOVED'			=> 'Movido',
+	'VIEW_TOPIC_POLL'			=> 'Enquete',
+	'VIEW_TOPIC_STICKY'		 => 'Fixo',
+>>>>>>> origin/master:language/pt-br/common.php
 ));
